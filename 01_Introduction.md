@@ -1,5 +1,7 @@
 # Introduction to HTML
 
+<div style="text-align: justify;">
+
 HTML (HyperText Markup Language) is the standard markup language used to create web pages. It provides the structure of a webpage, allowing you to define elements such as headings, paragraphs, links, images, and more. HTML is the foundation of web development and is essential for creating websites and web applications.
 
 ## Key Features of HTML
@@ -26,3 +28,5 @@ In this tutorial, we will cover the basics of HTML, including how to create and 
 ## Conclusion
 
 HTML is a fundamental technology for web development, providing the essential structure for web pages. By mastering HTML, you will be able to create well-structured and accessible web content. As you progress through this tutorial, you will gain a solid understanding of HTML's core concepts and how to apply them to build your own web pages. Happy coding!
+
+</div>
